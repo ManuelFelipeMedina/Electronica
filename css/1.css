@@ -9,10 +9,3 @@ p {
 .cool_maths {
     color: rgb(255, 127, 212);
 }
-
-.menu-opciones {
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    margin-top: 25px;
-}
