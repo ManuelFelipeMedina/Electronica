@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(48, 49, 68);
+}
+
+h1 {
+    color: deeppink;
+}
+
+a {
+    color: rgb(136, 85, 156);
+}
+
+.menu_opciones {
+    color: rgb(255, 127, 212);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.button {
+    padding: 5px;
+    justify-content: center;
+    width: 67%;
+    background-color: gray;
+    border-radius: 20px;
+    margin: 50;
+    box-shadow: 0 0 10px rgb(255, 42, 255)
+}
+
+.corte_1 {
+    flex: 0;
+    flex-basis: 230px;
+}
+
+.corte_2 {
+    flex: 1;
+    flex-basis: 230px;
+}
+
+.return {
+    flex: 2;
+    flex-basis: 230px;
+}
